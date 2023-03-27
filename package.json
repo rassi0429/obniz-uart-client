@@ -1,0 +1,22 @@
+{
+  "name": "obniz-uart-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rassi0429/obniz-uart-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rassi0429/obniz-uart-client/issues"
+  },
+  "homepage": "https://github.com/rassi0429/obniz-uart-client#readme",
+  "dependencies": {
+    "obniz": "^3.25.0"
+  }
+}
